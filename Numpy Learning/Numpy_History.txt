@@ -1,0 +1,12 @@
+#-----------------------------NUMPY ORIGIN HISTORY---------------------------------------#
+
+
+
+Python is generally very powerful in maths compared to other languages like c c++ java but data structure similar to arrays was not available in python
+
+To resolve this , in 1995 Jim Hugunin  created a library named "Numeric" which provided array support but performance was not efficient 
+
+To resolve this , another library was developed by "Spcace Telescope Science Institute" named "Numarray" to increase power but Numeric was not compatible with Numarray
+
+To resolve this , in 2005 Travis Oliphant combined these two libraries Numeric + Numarray and named it "Numpy"
+
