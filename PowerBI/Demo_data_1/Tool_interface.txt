@@ -13,4 +13,14 @@ TO TRIM-->  Tranform --> format --> trim every row // uppercase or lowercase eve
 Here if by default first row as headers and names of column names are column1 column 2..
 then go Home--> select (use first headers as column)
 
-# we do column profile , column distribution , column quality for step 1 for transforming data 
+# we do column profile , column distribution , column quality for step 1 for transforming data  
+
+now we do FEATURE EXTRACTION i.e generating new columns or attributes derived from existing ones
+ 
+first step , use pascal shape naming convention for column names i.e Customer Name to CustomerName 
+Order Id to OrderId
+
+now to get a new column delimetre based from exisiting one go to Add column --> Extract 
+
+now to see new index column i.e row labels we can select index column in add column section
+
