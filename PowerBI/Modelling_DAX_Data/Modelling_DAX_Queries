@@ -36,4 +36,4 @@ to display one measure (sum of total sales or sum of total revenue ) WE CAN USE 
 
 remember to change datatype of sales , unit price , avg or sum sales from general to decimal number     
 
-we can create threshhold like 
+we can create threshold like 
