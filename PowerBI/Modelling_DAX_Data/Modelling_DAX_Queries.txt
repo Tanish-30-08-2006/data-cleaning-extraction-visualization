@@ -81,4 +81,8 @@ Sales South Region = CALCULATE(SUM(Fact_Sales[TotalSales]),Dim_Customers[Region]
 Sales West Region = CALCULATE(SUM(Fact_Sales[TotalSales]) , Dim_Customers[Region]="West")
 added these 4 measures in fact table and displayed it in a card with lightning sign where multiple measures can be added in a card
 and a total sales card below it in page 3 
-    
+
+# use of slicer rather than 4 display cards
+when we use a slicer we can select a region and sum of sales would appear for that region..
+now if we want to calculate sum of sales with respect to cities for 1000s of cities we will not add 1000s of measures and add each one to display cards 
+we will add one card of sum of sales and use a slicer to select the city we want sum of sales of ..
