@@ -67,3 +67,11 @@ here all rows will show error as message in check error column in fact sales tab
 If you use a Column: Power BI calculates the error once and stores it. It takes up a tiny bit of memory/file size.
 
 If you use a Measure: Power BI calculates the error every time you look at the screen. Since it's a simple /0 check, it's fast, but it's technically "extra work" for the computer to do repeatedly for a result that never changes.
+
+# filter context functions 
+what if we want to calculate sum of sales for east region as a measure ..
+VERY IMP FUNCTION comes here called CALCULATE 
+what we want to do is display cards here for all four regions [SalesEastRegion] , [SalesWestRegion].... and a big card of total sales so we can visually see which region contributed the most by cards 
+
+remember when we want to see one region sales we will not create a matrix add region and then total sales which will do the same (calculate region wise sales ) but its visually not presentative than cards ...
+so for cards we need a single measure as cards we use single value so we create  4 measures of sum of sales per region and add them individually in card ..
