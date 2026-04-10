@@ -99,3 +99,9 @@ we can use "ALL" to remove filter like when we calculate total sales after filte
 # use of month to date , year to date sales .. ( MTD,YTD )
 Sales MTD = TOTALMTD([SumofSales], Fact_Sales[Date])
 Sales YTD = TOTALYTD([SumofSales], Fact_Sales[Date])
+
+# SAMEPERIODLASTYEAR sales
+starting from that period in hierarchy total sales from the last year going back will be shown 
+for example on year 2024 in new year hierarchy total sales of 2023 will be shown 
+try [year hierarchy] [factsales[totalSales]], [same period last year sales] , we will see 2024 has 2023 sales..
+
