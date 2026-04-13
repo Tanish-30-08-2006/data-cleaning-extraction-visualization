@@ -35,4 +35,13 @@ Buttons with text box(next/prev page inside it ) : to go from page 1 to page 2 w
 Bookmark for example i have a bar chart with customer name and sales and also a matrix with customer name and sale
 i want to toggle it with like on off button and i will put both chart and matrix of same size overlapping each other ..
 
+For making buttons to work 
+Add button --> Add Text box inside it --> Select Button and check Action
+
+Analyse visual Feature 
+For any visual right click and click analyse we can analyse it by powerBI's APPLIED
+
+Groups 
+For example we have multiple cities and we want some cities to be part of tier 1 and some in tier 2 etc ..
+so we can create 4 groups of tiers and we can usr them for further tier wise total sales , transactions , etc..
 
