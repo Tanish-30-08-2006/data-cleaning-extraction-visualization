@@ -25,3 +25,14 @@ Target: Put a goal (like a fixed number or a "Target Sales" measure).
 Result: This visual will show the number, a line chart in the background,
         and turn Green or Red automatically based on whether you hit your target.
 We set target of 40K , here we have to create a measure of target ( Target = 40000) and add that on target part in KPI ..
+
+Drill Through --> when i see productname as laptop in a page and want to see description of that product 
+i just right click and click drill through which will go towards description i.e on a page or card where i kept 
+drillthrough as product name ..........
+
+Buttons with text box(next/prev page inside it ) : to go from page 1 to page 2 with the help of buttons ...
+
+Bookmark for example i have a bar chart with customer name and sales and also a matrix with customer name and sale
+i want to toggle it with like on off button and i will put both chart and matrix of same size overlapping each other ..
+
+
