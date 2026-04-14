@@ -32,24 +32,24 @@ Before diving into the technical details, check out the final interactive dashbo
 
 I designed this dashboard to make exploring the sales data as intuitive as possible. Here is a breakdown of the key features I implemented to bring the data to life:
 
-* **🎯 Target KPIs (Key Performance Indicators):**
+* **Target KPIs (Key Performance Indicators):**
   I built custom KPI tracking to measure performance against specific goals. For example, I set a dynamic target of $40K—the visual automatically shifts to Green (target hit) or Red (target missed) based on current real-time sales.
 
-* **🖱️ Interactive Toggles (Bookmarks & Action Buttons):**
+* **Interactive Toggles (Bookmarks & Action Buttons):**
   To save space and keep the dashboard looking clean, I used overlapping visuals. By linking Action Buttons to Bookmarks, you can click a button to seamlessly switch the view from a visual Bar Chart directly to a detailed Matrix table in the exact same spot!
 
-* **🔍 Drill-Through for Detailed Insights:**
+* **Drill-Through for Detailed Insights:**
   Curious about a specific product segment? I set up Drill-Through pages. If you spot "Laptops" on the main page, you can simply right-click it and drill through directly to a separate, dedicated page breaking down that specific product's underlying stats and description.
 
-* **🌳 Decomposition Trees:**
+* **Decomposition Trees:**
   I used Decomposition Trees to investigate the structural flow of our sales. It acts like a dynamic flowchart (e.g., breaking down *Product Category* ⮕ *Product Name* ⮕ *Unit Price*) to let the user easily investigate exactly where the biggest numbers are coming from.
 
-* **📊 Smart Charting & Custom Grouping:**
+* **Smart Charting & Custom Grouping:**
   * **Line & Bar Charts:** I used a dedicated `Date` table to track time-based trends exactly (like viewing last quarter's total sales day-by-day).
   * **Data Groupings & Bins:** I categorized scattered data into logical groups. For instance, I grouped multiple scattered cities into "Tier 1" and "Tier 2" markets, and utilized grouping bins to create neat histogram slices.
   * **Tooltips:** I configured custom tooltips so when you hover your mouse over any bar or pie slice, a floating box appears with instant extra info.
 
-* **🎛️ Dynamic Filtering:**
+* **Dynamic Filtering:**
   I implemented a robust filter structure depending on the need: allowing users to filter inside a single visual box, filtering everything across a single page, or persisting filters globally across the whole report.
 
 <br>
