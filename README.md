@@ -4,12 +4,13 @@ Hey there! 👋 Welcome to my PowerBI Data Analytics project. I took raw sales d
 
 Before diving into the technical details, check out the final interactive dashboard in action below!
 
-### 🎬 See the Dashboard in Action
+### 🎬 See the Report in Action
 
 <br>
 <p align="center">
-  <img src="Documentation/screen_recordings/PowerBI_Sales_Report_GIIF_1.gif" alt="PowerBI Report GIF 1" width="48%">
-  <img src="Documentation/screen_recordings/PowerBI_Sales_Report_GIF_2.gif" alt="PowerBI Report GIF 2" width="48%">
+  <img src="Documentation/screen_recordings/PowerBI_Sales_Report_GIF_1.gif" alt="PowerBI Report GIF 1" width="800">
+  <br><br>
+  <img src="Documentation/screen_recordings/PowerBI_Sales_Report_GIF_2.gif" alt="PowerBI Report GIF 2" width="800">
 </p>
 <br>
 
