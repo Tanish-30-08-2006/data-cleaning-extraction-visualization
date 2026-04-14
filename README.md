@@ -115,4 +115,78 @@ After writing out all my custom extraction logic, the messy dataset was totally 
 </p>
 <br>
 
+---
+
+## 🐼 Pandas Learning 
+
+This section of the repository contains a comprehensive guide to mastering the Python Pandas library, moving from fundamental data structures to advanced feature engineering.
+
+### Folders & Topics Covered
+
+**1. Pandas Series**
+* Creating and indexing 1D Series.
+* Fundamental operations on series data.
+
+**2. DataFrames (Core)**
+* **Creating DataFrames:** Creating from lists, dictionaries, and arrays.
+* **Selection & Indexing:** Using `.loc[]`, `.iloc[]`, and column selection.
+* **Conditional Selection:** Filtering data based on specific criteria.
+* **Manipulation:** Adding and removing rows/columns.
+
+**3. Missing Data**
+* **Finding:** Detecting `NaN` or null values in datasets.
+* **Removing:** Dropping rows or columns with missing data.
+* **Filling:** Using `.fillna()` to handle missing values logically.
+
+**4. GroupBy & Aggregation**
+* Splitting data using `groupby()`.
+* Performing aggregations like `sum()`, `mean()`, and `count()`.
+
+**5. Merging, Joining & Concatenation**
+* Combining multiple DataFrames.
+* Using `merge()` for SQL-style joins.
+* Using `concat()` to stack data.
+
+**6. Pivot Tables & CrossTabs**
+* Creating multi-dimensional pivot tables for data summaries.
+* Comparing `CrossTabs` vs `PivotTables`.
+
+**7. Feature Extraction**
+* Real-world data preprocessing.
+* Working with the Anime Dataset to engineer new features.
+
+**8. Loading Data & Operations**
+* Reading from various file formats (CSV, Text, etc.).
+* Essential Pandas operations for data cleaning.
+
+**9. History & Context**
+* Background information on the origins of the Pandas library.
+
+---
+
+## 🔢 NumPy Learning 
+
+This section covers the core building blocks of mathematical computing in Python using NumPy, setting the exact foundation required for Pandas and rapid data manipulation.
+
+### Folders & Topics Covered
+
+**1. Array Basic Fundamentals**
+* Creating foundational NumPy arrays from standard Python lists.
+* Understanding data types, shapes, and array structures in memory.
+
+**2. 1D, 2D & Boolean Array Indexing/Slicing**
+* Navigating and extracting specific elements from 1-dimensional and 2-dimensional grid arrays.
+* Using boolean logic (True/False) to conditionally filter arrays.
+
+**3. Array Operations**
+* Performing fast, vectorized mathematical operations (addition, subtraction, multiplication) directly on entire arrays without using slow loops.
+* Understanding matrix broadcasting across different shaped grids.
+
+**4. NumPy Exercises**
+* Hands-on practice problems to solidify array manipulation skills and logic.
+
+**5. History & Context**
+* Background information on the origins of NumPy and why it is the global standard for numerical computing.
+<br>
+
 
