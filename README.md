@@ -6,15 +6,15 @@ Before diving into the technical details, check out the final interactive dashbo
 
 ### 🎬 See the Report in Action
 
-
+*(Note: These GIFs are high quality and may take a few seconds to load. For a faster experience, click the dropdown below!)*
 
 <details>
-  <summary><b>▶️ Click here to view the Interactive Dashboard Action</b></summary>
+  <summary><b>▶️ Click here to view the Interactive Dashboard Action (GIFs)</b></summary>
   <br>
   <p align="center">
-    <video src="assets/screen_recordings/PowerBI_Sales_Report_Recording_1.mp4" controls width="800"></video>
+    <img src="Documentation/screen_recordings/PowerBI_Sales_Report_GIF_1.gif" alt="PowerBI Report GIF 1" width="800" loading="lazy">
     <br><br>
-    <video src="assets/screen_recordings/PowerBI_Sales_Report_Recording_2.mp4" controls width="800"></video>
+    <img src="Documentation/screen_recordings/PowerBI_Sales_Report_GIF_2.gif" alt="PowerBI Report GIF 2" width="800" loading="lazy">
   </p>
 </details>
 <br>
@@ -22,11 +22,11 @@ Before diving into the technical details, check out the final interactive dashbo
 <details>
   <summary><b>🖼️ Click here to view static screenshots of the dashboard</b></summary>
   <br>
-  <img src="assets/screenshots/report_image_1.png" alt="Report 1" width="800">
+  <img src="Documentation/screenshots/report_image_1.png" alt="Report 1" width="800">
   <br><br>
-  <img src="assets/screenshots/report_image_2.png" alt="Report 2" width="800">
+  <img src="Documentation/screenshots/report_image_2.png" alt="Report 2" width="800">
   <br><br>
-  <img src="assets/screenshots/report_image_3.png" alt="Report 3" width="800">
+  <img src="Documentation/screenshots/report_image_3.png" alt="Report 3" width="800">
 </details>
 
 ---
