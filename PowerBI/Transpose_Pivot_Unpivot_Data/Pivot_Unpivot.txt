@@ -1,9 +1,0 @@
-Pivoting 
-When pivoting we select a column whose unique values will be created as another column after pivotting ,
-For example , initially we had three columns for jan feb march which is called wide data and jan feb march columns had their values ..
-now if we want to create a column of month ( single column ) which has jan feb march and new column of values which had value for corresponding month and region 
-
-Unpivoting
-breaking every unique values of a column into a new column like for example if we have month column with every month and sales column corresponding to sales of that month
-now if we want to just see month wise sales or calculate sum of month wise values we will need columns for every unique month and calculate sums
-
